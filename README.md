@@ -33,14 +33,4 @@
 
 ## 배포
 
-`index.html` 파일 하나로 동작합니다.
-GitHub 저장소에 올린 뒤 **Settings → Pages**에서 브랜치를 선택하면 바로 사이트가 열립니다.
-
-## 사용한 것
-
-- [Google Fonts](https://fonts.google.com) (SIL Open Font License)
-- [JSZip](https://stuk.github.io/jszip/) (MIT)
-
----
-
-만든 사람: [@idsmsnulsae_c](https://x.com/idsmsnulsae_c)
+만든 사람: @idsmsnulsae_c
